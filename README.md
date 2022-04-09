@@ -1,6 +1,6 @@
 # Semantic_Segmentation_UNet
 ### Model: UNet
-### Dataset: COCO dataset
+### Dataset: [HoVer-Net](https://warwick.ac.uk/fac/cross_fac/tia/data/hovernet/)
 ### Technologies & Libraries:
 - PyTorch
 - Scipy
